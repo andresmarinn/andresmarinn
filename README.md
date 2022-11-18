@@ -10,7 +10,7 @@
 
 ## Back End
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,php,mongodb,mysql)](https://skillicons.dev)
 
 ## CMS
 
