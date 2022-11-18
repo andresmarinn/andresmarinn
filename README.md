@@ -6,11 +6,15 @@
 
 ## Front End
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,vue,nuxtjs,bootstrap,jquery)](https://skillicons.dev)
 
 ## Back End
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,php)](https://skillicons.dev)
+
+## CMS
+
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
 
 ## Software
 
