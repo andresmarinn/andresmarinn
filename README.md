@@ -1,6 +1,6 @@
 ## Front End
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,,bootstrap,js,jquery,ts,vue,nuxtjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,ts,vue,nuxtjs)](https://skillicons.dev)
 
 ## Back End
 
